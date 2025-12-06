@@ -2,7 +2,7 @@
     "hats": [     
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "桜羽エマ",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -21,7 +21,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Ema(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -37,7 +37,7 @@
 	    }, 
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "桜羽エマ",       			
 	        "Name" : "桜羽エマ２",       
 		    "Bounce": "false",
@@ -57,7 +57,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Ema2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -73,7 +73,7 @@
 	    },      
        {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "二階堂ヒロ",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -92,7 +92,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hiro(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -108,7 +108,7 @@
 	    }, 
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "二階堂ヒロ",          			
 	        "Name" : "二階堂ヒロ２",    
 		    "Bounce": "false",
@@ -128,7 +128,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hiro2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -144,7 +144,7 @@
 	    },        
        {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "夏目アンアン",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -167,7 +167,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Anan(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -187,7 +187,7 @@
 	    }, 
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "夏目アンアン",    			
 	        "Name" : "夏目アンアン２",          
 		    "Bounce": "false",
@@ -207,7 +207,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Anan2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -223,7 +223,7 @@
 	    },        
        {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "城ケ崎ノア",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -246,7 +246,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Noa(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -266,7 +266,7 @@
 	    }, 
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "城ケ崎ノア",  			
 	        "Name" : "城ケ崎ノア２",            
 		    "Bounce": "false",
@@ -286,7 +286,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Noa2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -302,7 +302,7 @@
 	    },      
                {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "蓮見レイア",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -321,7 +321,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Reia(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -337,7 +337,7 @@
 	    }, 
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "蓮見レイア",              			
 	        "Name" : "蓮見レイア２",
 		    "Bounce": "false",
@@ -357,7 +357,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Reia2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -373,7 +373,7 @@
 	    },        
            {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "佐伯ミリア",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -392,7 +392,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Miria(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -408,7 +408,7 @@
 	    }, 
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "佐伯ミリア",         			
 	        "Name" : "佐伯ミリア２",     
 		    "Bounce": "false",
@@ -428,7 +428,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Miria2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -444,7 +444,7 @@
 	    },    
        {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "宝生マーゴ",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -463,7 +463,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Mago(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -479,7 +479,7 @@
 	    }, 
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "宝生マーゴ",            			
 	        "Name" : "宝生マーゴ２",  
 		    "Bounce": "false",
@@ -499,7 +499,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Mago2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -515,7 +515,7 @@
 	    },             
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",                
+            "Package": "魔法少女ノ魔女裁判",                
             "Name" : "黒部ナノカ",
             "Bounce": "false",
             "Adaptive": "false",
@@ -538,7 +538,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Nanoka(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -558,7 +558,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "黒部ナノカ",    
             "Name" : "黒部ナノカ２",
             "Bounce": "false",
@@ -582,7 +582,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Nanoka2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -602,7 +602,7 @@
 	    },		
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",                
+            "Package": "魔法少女ノ魔女裁判",                
             "Name" : "紫藤アリサ",
             "Bounce": "false",
             "Adaptive": "false",
@@ -621,7 +621,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Arisa(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -637,7 +637,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "紫藤アリサ",    
             "Name" : "紫藤アリサ２",
             "Bounce": "false",
@@ -657,7 +657,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Arisa2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -673,7 +673,7 @@
 	    },		  	
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",                
+            "Package": "魔法少女ノ魔女裁判",                
             "Name" : "橘シェリー",
             "Bounce": "false",
             "Adaptive": "false",
@@ -692,7 +692,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Sherry(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -708,7 +708,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "橘シェリー",    
             "Name" : "橘シェリー２",
             "Bounce": "false",
@@ -728,7 +728,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Sherry2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -744,7 +744,7 @@
 	    },		
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",                
+            "Package": "魔法少女ノ魔女裁判",                
             "Name" : "遠野ハンナ",
             "Bounce": "false",
             "Adaptive": "false",
@@ -771,7 +771,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hanna(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -795,7 +795,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "遠野ハンナ",    
             "Name" : "遠野ハンナ２",
             "Bounce": "false",
@@ -819,7 +819,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hanna2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -839,7 +839,7 @@
 	    },		  	
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",                
+            "Package": "魔法少女ノ魔女裁判",                
             "Name" : "沢渡ココ",
             "Bounce": "false",
             "Adaptive": "false",
@@ -858,7 +858,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Koko(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -874,7 +874,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "沢渡ココ",    
             "Name" : "沢渡ココ２",
             "Bounce": "false",
@@ -894,7 +894,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Koko2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -910,7 +910,7 @@
 	    },		 
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",                
+            "Package": "魔法少女ノ魔女裁判",                
             "Name" : "氷上メルル",
             "Bounce": "false",
             "Adaptive": "false",
@@ -929,7 +929,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Meruru(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -945,7 +945,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "氷上メルル",    
             "Name" : "氷上メルル２",
             "Bounce": "false",
@@ -965,7 +965,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Meruru2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -981,7 +981,7 @@
 	    },		  		 	
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",                
+            "Package": "魔法少女ノ魔女裁判",                
             "Name" : "ゴクチョー",
             "Bounce": "false",
             "Adaptive": "false",
@@ -1000,7 +1000,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Gokucho(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -1016,7 +1016,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",                
+            "Package": "魔法少女ノ魔女裁判",                
             "Name" : "Kansyu",
             "Bounce": "false",
             "Adaptive": "false",
@@ -1035,7 +1035,7 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Kansyu(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -1054,7 +1054,7 @@
 "nameplates": [
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "運命",
                 "Plate": {
                     "Address": "Start.png",
@@ -1064,7 +1064,7 @@
         }, 
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "裁判",
                 "Plate": {
                     "Address": "Court.png",
@@ -1073,7 +1073,7 @@
         },  			
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "妬忌",
                 "Plate": {
                     "Address": "Envy.png",
@@ -1082,7 +1082,7 @@
         },  			
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "無音",
                 "Plate": {
                     "Address": "Silence.png",
@@ -1091,7 +1091,7 @@
         },  	
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "自閉",
                 "Plate": {
                     "Address": "Autistic.png",
@@ -1100,7 +1100,7 @@
         },  	
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "露呈",
                 "Plate": {
                     "Address": "Disclosure.png",
@@ -1109,7 +1109,7 @@
         },  
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "無雑",
                 "Plate": {
                     "Address": "Pure.png",
@@ -1118,7 +1118,7 @@
         },  		
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "甘受",
                 "Plate": {
                     "Address": "Acceptance.png",
@@ -1127,7 +1127,7 @@
         },  			
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "落花",
                 "Plate": {
                     "Address": "Disappearance.png",
@@ -1136,7 +1136,7 @@
         },  
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "瑕瑾",
                 "Plate": {
                     "Address": "Despair.png",
@@ -1145,7 +1145,7 @@
         },  					
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "諦念",
                 "Plate": {
                     "Address": "Resignation.png",
@@ -1154,7 +1154,7 @@
         },  	
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "別離",
                 "Plate": {
                     "Address": "Tenuous.png",
@@ -1163,7 +1163,7 @@
         },  	
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "虚飾",
                 "Plate": {
                     "Address": "Escape.png",
@@ -1172,7 +1172,7 @@
         },  					
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "無垢",
                 "Plate": {
                     "Address": "Innocence.png",
@@ -1181,7 +1181,7 @@
         },  	
         {
                 "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
                 "Name" : "黄昏",
                 "Plate": {
                     "Address": "After school.png",
@@ -1192,7 +1192,7 @@
 "stamps":[
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "それはおかしいよ！",
             "Image": {
                 "Address": "Ema1.png",
@@ -1201,7 +1201,7 @@
         },	
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "それは正しくない",
             "Image": {
                 "Address": "Hiro1.png",
@@ -1210,7 +1210,7 @@
         },			
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "話をそらすな",
             "Image": {
                 "Address": "Anan.png",
@@ -1219,7 +1219,7 @@
         },		
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "嘘をついてると思う…",
             "Image": {
                 "Address": "Noa.png",
@@ -1228,7 +1228,7 @@
         },			
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "私を見るんだ",
             "Image": {
                 "Address": "Reia.png",
@@ -1237,7 +1237,7 @@
         },
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "わからないなぁ…",
             "Image": {
                 "Address": "Miria.png",
@@ -1246,7 +1246,7 @@
         },			
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "本当にそうかしら…",
             "Image": {
                 "Address": "Mago.png",
@@ -1255,7 +1255,7 @@
         },			
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "そう…",
             "Image": {
                 "Address": "Nanoka.png",
@@ -1264,7 +1264,7 @@
         },	
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "ふざけてんのか？",
             "Image": {
                 "Address": "Arisa.png",
@@ -1273,7 +1273,7 @@
         },					
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "そこになければないですね！",
             "Image": {
                 "Address": "Sherry.png",
@@ -1282,7 +1282,7 @@
         },					
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "私じゃありませんわー！",
             "Image": {
                 "Address": "Hanna.png",
@@ -1291,7 +1291,7 @@
         },	
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "そうはなんねーし！",
             "Image": {
                 "Address": "Koko.png",
@@ -1300,7 +1300,7 @@
         },		
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "心配ですぅ…",
             "Image": {
                 "Address": "Meruru.png",
@@ -1309,7 +1309,7 @@
         },			
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "おやおや…",
             "Image": {
                 "Address": "Gokucho.png",
@@ -1318,7 +1318,7 @@
         },				
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "無言",
             "Image": {
                 "Address": "Kansyu.png",
@@ -1327,7 +1327,7 @@
         },		
         {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "炙りビン",
             "Image": {
                 "Address": "Aburibin.png",
@@ -1336,7 +1336,7 @@
         },	
        {
             "Author": "catudon",
-            "Package": "魔法少女ノ魔法裁判",
+            "Package": "魔法少女ノ魔女裁判",
             "Name": "処刑",
             "FPS":"10",
             "Image": {
@@ -1349,8 +1349,8 @@
 	],
 "packages": [
             {
-                "Package": "魔法少女ノ魔法裁判",
-                "Format": "魔法少女ノ魔法裁判",
+                "Package": "魔法少女ノ魔女裁判",
+                "Format": "魔法少女ノ魔女裁判",
                 "Priority" : "500"
             }
     ]    
