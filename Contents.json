@@ -449,11 +449,11 @@
 		    "Bounce": "false",
 		    "Adaptive": "false",
 		    "Main": {
-		        "Address": "Mogo.png",
+		        "Address": "Mago.png",
                 "Hash": "b244cfbfa7f986ec61b2124cb3314b0c"
 		    },
 		    "Climb": {
-		        "Address": "Mogo_Climb.png",
+		        "Address": "Mago_Climb.png",
                 "Hash": "f12599453f644119544d72ba9a07d26d"
 		    },
             "SeekerAlternative" : {
@@ -464,16 +464,16 @@
         {
             "Author": "catudon",
             "Package": "魔法少女ノ魔法裁判",
-	        "Name" : "Mogo(Se)",
+	        "Name" : "Mago(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
             "IsHidden" : "true",			
 		    "Main": {
-		        "Address": "Mogo(Se).png",
+		        "Address": "Mago(Se).png",
                 "Hash": "6d0a4703253e73effcb3f36139e399ac"
 		    },
 		    "Climb": {
-		        "Address": "Mogo(Se)_Climb.png",
+		        "Address": "Mago(Se)_Climb.png",
                 "Hash": "df6f170ee8886bf037aec67d517d9e92"
 		    }
 	    }, 
@@ -485,31 +485,31 @@
 		    "Bounce": "false",
 		    "Adaptive": "false",
 		    "Main": {
-		        "Address": "Mogo2.png",
+		        "Address": "Mago2.png",
                 "Hash": "c1b492167bc2b68d554131998e0e33d1"
 		    },
 		    "Climb": {
-		        "Address": "Mogo2_Climb.png",
+		        "Address": "Mago2_Climb.png",
                 "Hash": "086fffa53a41c112ae94c8f3bc578511"
 		    },
             "SeekerAlternative" : {
                 "Author" : "catudon",
-                "Name" : "Mogo2(Se)"
+                "Name" : "Mago2(Se)"
             }
 	    },
         {
             "Author": "catudon",
             "Package": "魔法少女ノ魔法裁判",
-	        "Name" : "Mogo2(Se)",
+	        "Name" : "Mago2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
             "IsHidden" : "true",			
 		    "Main": {
-		        "Address": "Mogo2(Se).png",
+		        "Address": "Mago2(Se).png",
                 "Hash": "6121f9212838167ea19abbe8634cbfab"
 		    },
 		    "Climb": {
-		        "Address": "Mogo2(Se)_Climb.png",
+		        "Address": "Mago2(Se)_Climb.png",
                 "Hash": "09ef1ceb8289438157981afa6635ec68"
 		    }
 	    },             
@@ -715,7 +715,7 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Sherry2.png",
-                "Hash": "2a9ce83d9fba20668cc1b81cbf57bbde"
+                "Hash": "71ccf6e62d5f55c047a66c63ed3935c3"
             },
             "Climb": {
 		        "Address": "Sherry2_Climb.png",
@@ -735,7 +735,7 @@
             "IsHidden" : "true",
 		    "Main": {
 		        "Address": "Sherry2(Se).png",
-                "Hash": "a292a21a85968a511aba3d874d0235f7"
+                "Hash": "f452285161838d800c090845d29b3d39"
 		    },
 		    "Climb": {
 		        "Address": "Sherry2(Se)_Climb.png",
