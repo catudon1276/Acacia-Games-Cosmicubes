@@ -1,0 +1,1366 @@
+{
+    "hats": [     
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "桜羽エマ",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Ema.png",
+                "Hash": "c142867abc5bcca2f23744634fbe5366"
+		    },
+		    "Climb": {
+		        "Address": "Ema_Climb.png",
+                "Hash": "b1ec6721d580e1e710377230907811d2"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Ema(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Ema(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Ema(Se).png",
+                "Hash": "379d09bac2b1fe4d108047517ce1851b"
+		    },
+		    "Climb": {
+		        "Address": "Ema(Se)_Climb.png",
+                "Hash": "677c4341f3617c119d2342e6f39413ac"
+		    }
+	    }, 
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "桜羽エマ",       			
+	        "Name" : "桜羽エマ２",       
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Ema2.png",
+                "Hash": "ec897fcbe3c843a5adf283d65dda445f"
+		    },
+		    "Climb": {
+		        "Address": "Ema2_Climb.png",
+                "Hash": "0128efe841e818a4bc51a1360de254a6"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Ema2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Ema2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Ema2(Se).png",
+                "Hash": "18307e9de32013281043eee7578babb5"
+		    },
+		    "Climb": {
+		        "Address": "Ema2(Se)_Climb.png",
+                "Hash": "7f7f13df91db19fab1c4eed5ab661631"
+		    }
+	    },      
+       {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "二階堂ヒロ",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Hiro.png",
+                "Hash": "cf9125cae2e2d3027855031e6f80f881"
+		    },
+		    "Climb": {
+		        "Address": "Hiro_Climb.png",
+                "Hash": "e0807bc30ba208d6c21b6eb81fdea72d"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Hiro(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Hiro(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Hiro(Se).png",
+                "Hash": "badeb050df8894d815765460b3774219"
+		    },
+		    "Climb": {
+		        "Address": "Hiro(Se)_Climb.png",
+                "Hash": "16481f5d127b7615524e6ff2e28a7bcf"
+		    }
+	    }, 
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "二階堂ヒロ",          			
+	        "Name" : "二階堂ヒロ２",    
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Hiro2.png",
+                "Hash": "d6a1a9a065aff53a59dc5c55dbd1c20a"
+		    },
+		    "Climb": {
+		        "Address": "Hiro2_Climb.png",
+                "Hash": "8d3e1df510270846831dc870255abd5e"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Hiro2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Hiro2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Hiro2(Se).png",
+                "Hash": "b2ad91a104a07d45c3dabcdd578a6279"
+		    },
+		    "Climb": {
+		        "Address": "Hiro2(Se)_Climb.png",
+                "Hash": "5aa27f0917ae05bf437702c8b908c1e7"
+		    }
+	    },        
+       {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "夏目アンアン",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Anan.png",
+                "Hash": "412a63402148bdf40e3c3f65b286f99e"
+		    },
+            "Flip": {
+		        "Address": "Anan_Flip.png",
+                "Hash": "d5b2b45d10a9416534a17079f0c68eaa"
+		    },            
+		    "Climb": {
+		        "Address": "Anan_Climb.png",
+                "Hash": "cdc367eeed97866d5235dffd0cdd88c3"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Anan(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Anan(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Anan(Se).png",
+                "Hash": "1710bee740889d2d72e29d66f79db2fc"
+		    },
+            "Flip": {
+		        "Address": "Anan(Se)_Flip.png",
+                "Hash": "35937489492ed808b15b4b02f2da2750"
+		    },
+		    "Climb": {
+		        "Address": "Anan(Se)_Climb.png",
+                "Hash": "7c37c938104ec913e299583324b56051"
+		    }
+	    }, 
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "夏目アンアン",    			
+	        "Name" : "夏目アンアン２",          
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Anan2.png",
+                "Hash": "a395114dfc032902bb98ba2d28637b6f"
+		    },
+		    "Climb": {
+		        "Address": "Anan2_Climb.png",
+                "Hash": "24c51611794460267b147fa457c643d1"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Anan2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Anan2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Anan2(Se).png",
+                "Hash": "346ca3890d6c315ca4d17f5e0af2557c"
+		    },
+		    "Climb": {
+		        "Address": "Anan2(Se)_Climb.png",
+                "Hash": "83d5a10026aca448709d0ecdf0c6fc88"
+		    }
+	    },        
+       {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "城ケ崎ノア",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Noa.png",
+                "Hash": "a09e567bb447d195363df3bd31d77068"
+		    },
+            "Back": {
+		        "Address": "Noa_Back.png",
+                "Hash": "38640c7004f21156a4c597e0f281160e"
+		    },
+		    "Climb": {
+		        "Address": "Noa_Climb.png",
+                "Hash": "4ebc900062c8a856af023e721e4ff3f9"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Noa(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Noa(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Noa(Se).png",
+                "Hash": "e942124a3e7547e7a690774b283bf717"
+		    },
+            "Back": {
+		        "Address": "Noa_Back.png",
+                "Hash": "38640c7004f21156a4c597e0f281160e"
+		    },            
+		    "Climb": {
+		        "Address": "Noa(Se)_Climb.png",
+                "Hash": "2f9359fad6fd45e5a134d0cd91bcad80"
+		    }
+	    }, 
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "城ケ崎ノア",  			
+	        "Name" : "城ケ崎ノア２",            
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Noa2.png",
+                "Hash": "79e077d84214a8a7fa9d3043ecb9bd60"
+		    },
+		    "Climb": {
+		        "Address": "Noa2_Climb.png",
+                "Hash": "056e982b3e0e5c756c1368b05821485a"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Noa2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Noa2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Noa2(Se).png",
+                "Hash": "b510c30560ea54e5b99b3585bf18096f"
+		    },
+		    "Climb": {
+		        "Address": "Noa2(Se)_Climb.png",
+                "Hash": "dfe858abf841c6d278c0d1c521d0edaf"
+		    }
+	    },      
+               {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "蓮見レイア",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Reia.png",
+                "Hash": "e352cf16468068d1f30817a6df43681b"
+		    },
+		    "Climb": {
+		        "Address": "Reia_Climb.png",
+                "Hash": "a0995a4425aecb1e1eb6a42e8db73ea9"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Reia(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Reia(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Reia(Se).png",
+                "Hash": "e942124a3e7547e7a690774b283bf717"
+		    },
+		    "Climb": {
+		        "Address": "Reia(Se)_Climb.png",
+                "Hash": "2f9359fad6fd45e5a134d0cd91bcad80"
+		    }
+	    }, 
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "蓮見レイア",              			
+	        "Name" : "蓮見レイア２",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Reia2.png",
+                "Hash": "75f088bc3bebd1f760cc02b88d32f39d"
+		    },
+		    "Climb": {
+		        "Address": "Reia2_Climb.png",
+                "Hash": "435aeb9e7c6b9e78d130c5edc857cb82"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Reia2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Reia2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Reia2(Se).png",
+                "Hash": "8caf155d8fd3444f1964ccc2359b7c73"
+		    },
+		    "Climb": {
+		        "Address": "Reia2(Se)_Climb.png",
+                "Hash": "76b9447cfba497ccf98429e71c8796fa"
+		    }
+	    },        
+           {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "佐伯ミリア",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Miria.png",
+                "Hash": "e3826a87d2a1b52b261f82ef3d77fbe6"
+		    },
+		    "Climb": {
+		        "Address": "Miria_Climb.png",
+                "Hash": "d1bf58f77555f4b86d52db8d70dd2d34"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Miria(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Miria(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Miria(Se).png",
+                "Hash": "177a1605dede2cb8ac807fd4c4f5c1a1"
+		    },
+		    "Climb": {
+		        "Address": "Miria(Se)_Climb.png",
+                "Hash": "c8009d2f7c3753c45d636a15b327c7ff"
+		    }
+	    }, 
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "佐伯ミリア",         			
+	        "Name" : "佐伯ミリア２",     
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Miria2.png",
+                "Hash": "f7d8df13d568e6eb6aac03e42e115a57"
+		    },
+		    "Climb": {
+		        "Address": "Miria2_Climb.png",
+                "Hash": "623a1e3d5a6b3a8630363d675f152119"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Miria2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Miria2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Miria2(Se).png",
+                "Hash": "71b06ec8ec93539df4bde1a0caddf664"
+		    },
+		    "Climb": {
+		        "Address": "Miria2(Se)_Climb.png",
+                "Hash": "da2f1fdfd4aba52861ca39c3c7a2acfa"
+		    }
+	    },    
+       {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "宝生マーゴ",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Mogo.png",
+                "Hash": "b244cfbfa7f986ec61b2124cb3314b0c"
+		    },
+		    "Climb": {
+		        "Address": "Mogo_Climb.png",
+                "Hash": "f12599453f644119544d72ba9a07d26d"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Mogo(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Mogo(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Mogo(Se).png",
+                "Hash": "6d0a4703253e73effcb3f36139e399ac"
+		    },
+		    "Climb": {
+		        "Address": "Mogo(Se)_Climb.png",
+                "Hash": "df6f170ee8886bf037aec67d517d9e92"
+		    }
+	    }, 
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "宝生マーゴ",            			
+	        "Name" : "宝生マーゴ２",  
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Mogo2.png",
+                "Hash": "c1b492167bc2b68d554131998e0e33d1"
+		    },
+		    "Climb": {
+		        "Address": "Mogo2_Climb.png",
+                "Hash": "086fffa53a41c112ae94c8f3bc578511"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Mogo2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Mogo2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",			
+		    "Main": {
+		        "Address": "Mogo2(Se).png",
+                "Hash": "6121f9212838167ea19abbe8634cbfab"
+		    },
+		    "Climb": {
+		        "Address": "Mogo2(Se)_Climb.png",
+                "Hash": "09ef1ceb8289438157981afa6635ec68"
+		    }
+	    },             
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",                
+            "Name" : "黒部ナノカ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Nanoka.png",
+                "Hash": "1e7fdf8a615c808c20669e064c8c53d2"
+            },
+			"Back": {
+                "Address": "Nanoka_Back.png",
+                "Hash": "e9a75b42e62a969a9ddc9234c28f545a"
+            },			
+            "Climb": {
+		        "Address": "Nanoka_Climb.png",
+                "Hash": "378d64c383a578e924b94e7f755d9bf1"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Nanoka(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Nanoka(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Nanoka(Se).png",
+                "Hash": "1ed50555fe21efd322ae3d53e460c589"
+		    },
+			"Back": {
+                "Address": "Nanoka_Back.png",
+                "Hash": "e9a75b42e62a969a9ddc9234c28f545a"
+            },						
+		    "Climb": {
+		        "Address": "Nanoka(Se)_Climb.png",
+                "Hash": "a7fd117dea062e6cffd254de459257e7"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "黒部ナノカ",    
+            "Name" : "黒部ナノカ２",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Nanoka2.png",
+                "Hash": "36e85bc5450fb4d432c1d770ee93a6d1"
+            },
+			"Back": {
+                "Address": "Nanoka2_Back.png",
+                "Hash": "33e15d0383a92c169c0be399efcbad19"
+            },
+            "Climb": {
+		        "Address": "Nanoka2_Climb.png",
+                "Hash": "2f3c3866ae876046fad03bdb7be4208f"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Nanoka2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Nanoka2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Nanoka2(Se).png",
+                "Hash": "eb1c9c88a7899f95d17e9cfead8b7518"
+		    },
+			"Back": {
+                "Address": "Nanoka2_Back.png",
+                "Hash": "33e15d0383a92c169c0be399efcbad19"
+            },			
+		    "Climb": {
+		        "Address": "Nanoka2(Se)_Climb.png",
+                "Hash": "5daf0d075c6226244120a4d3068ed63d"
+		    }
+	    },		
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",                
+            "Name" : "紫藤アリサ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Arisa.png",
+                "Hash": "6cc3ba88f24f6faabbbcb43720a9d770"
+            },
+            "Climb": {
+		        "Address": "Arisa_Climb.png",
+                "Hash": "19f197698b84b9b7d838e3d464e245c0"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Arisa(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Arisa(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Arisa(Se).png",
+                "Hash": "dc011b1fe78530ca232c6f8bb357e45b"
+		    },
+		    "Climb": {
+		        "Address": "Arisa(Se)_Climb.png",
+                "Hash": "50204e5d8f9e67539f22cb0f090e33f8"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "紫藤アリサ",    
+            "Name" : "紫藤アリサ２",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Arisa2.png",
+                "Hash": "19b831173e37c011126dae474496ea53"
+            },
+            "Climb": {
+		        "Address": "Arisa_Climb.png",
+                "Hash": "19f197698b84b9b7d838e3d464e245c0"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Arisa2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Arisa2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Arisa2(Se).png",
+                "Hash": "05effa847f3487ce88e382ec889b37e0"
+		    },
+		    "Climb": {
+		        "Address": "Arisa(Se)_Climb.png",
+                "Hash": "50204e5d8f9e67539f22cb0f090e33f8"
+		    }
+	    },		  	
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",                
+            "Name" : "橘シェリー",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Sherry.png",
+                "Hash": "eba353fc643e341aaf315d21ad62e7e6"
+            },
+            "Climb": {
+		        "Address": "Sherry_Climb.png",
+                "Hash": "9f124e5dafabd8da2df40c59462f5d0b"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Sherry(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Sherry(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Sherry(Se).png",
+                "Hash": "c6e98f4ef1e851b31cd557f75e86ea8e"
+		    },
+		    "Climb": {
+		        "Address": "Sherry(Se)_Climb.png",
+                "Hash": "58d6a0c6adee6e9c3fd4077c75bfe20e"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "橘シェリー",    
+            "Name" : "橘シェリー２",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Sherry2.png",
+                "Hash": "2a9ce83d9fba20668cc1b81cbf57bbde"
+            },
+            "Climb": {
+		        "Address": "Sherry2_Climb.png",
+                "Hash": "0fc4f4b8cb4214644cf6fc957867b816"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Sherry2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Sherry2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Sherry2(Se).png",
+                "Hash": "a292a21a85968a511aba3d874d0235f7"
+		    },
+		    "Climb": {
+		        "Address": "Sherry2(Se)_Climb.png",
+                "Hash": "1489a46e42fe28480c5bdbbb232f3db6"
+		    }
+	    },		
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",                
+            "Name" : "遠野ハンナ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Hanna.png",
+                "Hash": "f5bcc6836dd9eb73677bdcc56ce0a206"
+            },
+			"Back": {
+                "Address": "Hanna_Back.png",
+                "Hash": "92c43339b9d750c49ec2afc8e146819c"
+            },
+			"Flip": {
+                "Address": "Hanna_Flip.png",
+                "Hash": "762901e546c8c9613be819aa581f4451"
+            },			
+            "Climb": {
+		        "Address": "Hanna_Climb.png",
+                "Hash": "b00bb6a185c208ffc3f5e06578c4a214"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Hanna(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Hanna(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Hanna(Se).png",
+                "Hash": "ee5ae33279146f3175385ec5074a81b7"
+		    },
+			"Back": {
+                "Address": "Hanna_Back.png",
+                "Hash": "92c43339b9d750c49ec2afc8e146819c"
+            },
+			"Flip": {
+                "Address": "Hanna(Se)_Flip.png",
+                "Hash": "8dc6e20b204ae19801dec5689cb28130"
+            },					
+		    "Climb": {
+		        "Address": "Hanna(Se)_Climb.png",
+                "Hash": "98b3c7699ab7a10a5b8b54c6f9bf12e9"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "遠野ハンナ",    
+            "Name" : "遠野ハンナ２",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Hanna2.png",
+                "Hash": "d2e8fba9bb61d50102833e64161a454d"
+            },
+			"Flip": {
+                "Address": "Hanna2_Flip.png",
+                "Hash": "fb578c7d6f12c7d4b72df95684bf3d5b"
+            },					
+            "Climb": {
+		        "Address": "Hanna2_Climb.png",
+                "Hash": "312bfa2a0bdcf6a85eecbed3e46cab70"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Hanna2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Hanna2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Hanna2(Se).png",
+                "Hash": "162e5d514c07e9318ae670cccf515e33"
+		    },
+			"Flip": {
+                "Address": "Hanna2(Se)_Flip.png",
+                "Hash": "be2fd995f45d0c1cac378586f6e02a6a"
+            },					
+		    "Climb": {
+		        "Address": "Hanna2(Se)_Climb.png",
+                "Hash": "3e8b48b1fb936c6568713fd8e170db2d"
+		    }
+	    },		  	
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",                
+            "Name" : "沢渡ココ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Koko.png",
+                "Hash": "cd546fa77ecb76ab4a4d2b0826e29d19"
+            },
+            "Climb": {
+		        "Address": "Koko_Climb.png",
+                "Hash": "b111f1aa93bded8d96c6246e11bfc34a"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Koko(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Koko(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Koko(Se).png",
+                "Hash": "f6ec77bfed2bb86339cf6e9814a4a878"
+		    },
+		    "Climb": {
+		        "Address": "Koko(Se)_Climb.png",
+                "Hash": "db4abbc0d70b94dbcb6cc518a817f728"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "沢渡ココ",    
+            "Name" : "沢渡ココ２",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Koko2.png",
+                "Hash": "e18e170a3ce0dd57fec025835b396b20"
+            },
+            "Climb": {
+		        "Address": "Koko2_Climb.png",
+                "Hash": "8c6403e7dcca68f29780dd2a8c27b071"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Koko2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Koko2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Koko2(Se).png",
+                "Hash": "ec635680538b0240971306268b0b922c"
+		    },
+		    "Climb": {
+		        "Address": "Koko2(Se)_Climb.png",
+                "Hash": "c2ea189a41184ec63bc5fdc322c0c004"
+		    }
+	    },		 
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",                
+            "Name" : "氷上メルル",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Meruru.png",
+                "Hash": "bafb81a3c327ac30c3e52b663c50dcc7"
+            },
+            "Climb": {
+		        "Address": "Meruru_Climb.png",
+                "Hash": "48d13dfaf1746d1b25c2b28f9ad3e8ed"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Meruru(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Meruru(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Meruru(Se).png",
+                "Hash": "1db9580d5e21eaa8ab2d701962c7b6f4"
+		    },
+		    "Climb": {
+		        "Address": "Meruru(Se)_Climb.png",
+                "Hash": "21730d7f5736055b59cb7a21f59005f1"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "MainItem" : "氷上メルル",    
+            "Name" : "氷上メルル２",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Meruru2.png",
+                "Hash": "b9bcd0c923953ef4ffc3b999d79c8ba3"
+            },
+            "Climb": {
+		        "Address": "Meruru2_Climb.png",
+                "Hash": "4f3c4c8ace72e9897d98383de0162f26"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Meruru2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Meruru2(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Meruru2(Se).png",
+                "Hash": "b4f1975bb02faf40b79b50252807962a"
+		    },
+		    "Climb": {
+		        "Address": "Meruru2(Se)_Climb.png",
+                "Hash": "110cf9b84d8513c4beb55fd8c4fabc99"
+		    }
+	    },		  		 	
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",                
+            "Name" : "ゴクチョー",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Gokucho.png",
+                "Hash": "78483fc5cb5755105ea5d009285d3b6d"
+            },
+            "Climb": {
+		        "Address": "Gokucho_Climb.png",
+                "Hash": "bb6ae0f535c06b8b3e6928dbc5da3174"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Gokucho(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Gokucho(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Gokucho(Se).png",
+                "Hash": "80e2f18ca5c31c0d93cfef0fe67abf06"
+		    },
+		    "Climb": {
+		        "Address": "Gokucho(Se)_Climb.png",
+                "Hash": "76bef5dbfc0b8c7a410d20869579cbf5"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",                
+            "Name" : "Kansyu",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Kansyu.png",
+                "Hash": "ac90e720da559ec070599c8b5793e652"
+            },
+            "Climb": {
+		        "Address": "Kansyu_Climb.png",
+                "Hash": "ff6e51625df9d58509fd7d899be2b1a6"
+		    },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Kansyu(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+	        "Name" : "Kansyu(Se)",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Kansyu(Se).png",
+                "Hash": "265dd8cebd9e0908be8ea250ed0a82af"
+		    },
+		    "Climb": {
+		        "Address": "Kansyu(Se)_Climb.png",
+                "Hash": "daff41e868a57ebee2dacee58dbc15a7"
+		    }
+	    }
+                                           
+    ],
+"nameplates": [
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "運命",
+                "Plate": {
+                    "Address": "Start.png",
+                    "Hash" : "260af01d6cd4897dde3208cbdc5b62f0"
+                }
+                
+        }, 
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "裁判",
+                "Plate": {
+                    "Address": "Court.png",
+                    "Hash" : "aa027cdf2d04262489992709f0273de7"
+                }
+        },  			
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "妬忌",
+                "Plate": {
+                    "Address": "Envy.png",
+                    "Hash" : "969c0ae64d7fef3af99765b08171459a"
+                }
+        },  			
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "無音",
+                "Plate": {
+                    "Address": "Silence.png",
+                    "Hash" : "31851714c64427412fae065fe6eeb96b"
+                }
+        },  	
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "自閉",
+                "Plate": {
+                    "Address": "Autistic.png",
+                    "Hash" : "31851714c64427412fae065fe6eeb96b"
+                }
+        },  	
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "露呈",
+                "Plate": {
+                    "Address": "Disclosure.png",
+                    "Hash" : "aad2312fe7eaecdc5d23a1c87508d280"
+                }
+        },  
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "無雑",
+                "Plate": {
+                    "Address": "Pure.png",
+                    "Hash" : "a73b48c41229b8d21dc560e89987a429"
+                }
+        },  		
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "甘受",
+                "Plate": {
+                    "Address": "Acceptance.png",
+                    "Hash" : "11a70983777862c4c5ea9d447aff517b"
+                }
+        },  			
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "落花",
+                "Plate": {
+                    "Address": "Disappearance.png",
+                    "Hash" : "6741ab26dcc7b187fd6ba64383f4b947"
+                }
+        },  
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "瑕瑾",
+                "Plate": {
+                    "Address": "Despair.png",
+                    "Hash" : "373498145d92e63feb3fcf9b0974ce94"
+                }
+        },  					
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "諦念",
+                "Plate": {
+                    "Address": "Resignation.png",
+                    "Hash" : "185fbea65ea84c5f3f3691b92e57705a"
+                }
+        },  	
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "別離",
+                "Plate": {
+                    "Address": "Tenuous.png",
+                    "Hash" : "577fdf233c2762c43b1796019d6415d7"
+                }
+        },  	
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "虚飾",
+                "Plate": {
+                    "Address": "Escape.png",
+                    "Hash" : "53dd52916c3c50263833940d900e2829"
+                }
+        },  					
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "無垢",
+                "Plate": {
+                    "Address": "Innocence.png",
+                    "Hash" : "95e06d070d64c9ee39c2df4537e6292d"
+                }
+        },  	
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "無垢",
+                "Plate": {
+                    "Address": "Innocence.png",
+                    "Hash" : "95e06d070d64c9ee39c2df4537e6292d"
+                }
+        },  	
+        {
+                "Author": "catudon",
+                "Package": "魔法少女ノ魔法裁判",
+                "Name" : "黄昏",
+                "Plate": {
+                    "Address": "After school.png",
+                    "Hash" : "2dbdeec02872144ef052c7b64a507e2b"
+                }
+        }
+	],	
+"stamps":[
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "それはおかしいよ！",
+            "Image": {
+                "Address": "Ema1.png",
+                "Hash" : "2173259f7100954f3e3ff52e2e829571"
+            }
+        },	
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "それは正しくない",
+            "Image": {
+                "Address": "Hiro1.png",
+                "Hash" : "8f8f844802a768df99e843fd9ab40ad0"
+            }
+        },			
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "話をそらすな",
+            "Image": {
+                "Address": "Anan.png",
+                "Hash" : "ae00b5c329364ffc0e6dc764415b0a79"
+            }
+        },		
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "嘘をついてると思う…",
+            "Image": {
+                "Address": "Noa.png",
+                "Hash" : "e374bab4b0c4830f8644f5213928c125"
+            }
+        },			
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "私を見るんだ",
+            "Image": {
+                "Address": "Reia.png",
+                "Hash" : "7b3b13d08178e5c54177175dd58b5e38"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "わからないなぁ…",
+            "Image": {
+                "Address": "Miria.png",
+                "Hash" : "35f31e0ea247fb42d69a11de353f5ef5"
+            }
+        },			
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "本当にそうかしら…",
+            "Image": {
+                "Address": "Mago.png",
+                "Hash" : "47b38c255ccf7c81818e3472eb558aa0"
+            }
+        },			
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "そう…",
+            "Image": {
+                "Address": "Nanoka.png",
+                "Hash" : "4f148123aeb88906f99e36cff89fd4aa"
+            }
+        },	
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "ふざけてんのか？",
+            "Image": {
+                "Address": "Arisa.png",
+                "Hash" : "bd96d44f1946a6b980c357dbb6a422b0"
+            }
+        },					
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "そこになければないですね！",
+            "Image": {
+                "Address": "Sherry.png",
+                "Hash" : "407f957348cde3b8d329177eff0a3a37"
+            }
+        },					
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "私じゃありませんわー！",
+            "Image": {
+                "Address": "Hanna.png",
+                "Hash" : "407f957348cde3b8d329177eff0a3a37"
+            }
+        },	
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "そうはなんねーし！",
+            "Image": {
+                "Address": "Koko.png",
+                "Hash" : "4e2e029429fed2b3bdacc7a75bf552db"
+            }
+        },		
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "心配ですぅ…",
+            "Image": {
+                "Address": "Meruru.png",
+                "Hash" : "2a74aff9f814421717a8956564c213e7"
+            }
+        },			
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "おやおや…",
+            "Image": {
+                "Address": "Gokucho.png",
+                "Hash" : "2415cf02fdf088c2f5db175b6f1114c2"
+            }
+        },				
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "無言",
+            "Image": {
+                "Address": "Kansyu.png",
+                "Hash" : "f251297ee911859846386ca51183085e"
+            }
+        },		
+        {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "炙りビン",
+            "Image": {
+                "Address": "Aburibin.png",
+                "Hash" : "41f26cc67d33676d6e897db71ed963f0"
+            }
+        },	
+       {
+            "Author": "catudon",
+            "Package": "魔法少女ノ魔法裁判",
+            "Name": "処刑",
+            "FPS":"10",
+            "Image": {
+                "Address": "Syokei.png",
+                "Hash" : "82055da4a1e228363af29c2838babcbd",
+                "Length":"17"
+            }
+        }   		
+
+	],
+"packages": [
+            {
+                "Package": "魔法少女ノ魔法裁判",
+                "Format": "魔法少女ノ魔法裁判",
+                "Priority" : "500"
+            }
+    ]    
+}
