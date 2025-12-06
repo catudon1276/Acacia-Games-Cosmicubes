@@ -229,7 +229,7 @@
 		    "Adaptive": "false",
 		    "Main": {
 		        "Address": "Noa.png",
-                "Hash": "a09e567bb447d195363df3bd31d77068"
+                "Hash": "a15724a81e247848e26bc7671e0145a6"
 		    },
             "Back": {
 		        "Address": "Noa_Back.png",
@@ -273,7 +273,7 @@
 		    "Adaptive": "false",
 		    "Main": {
 		        "Address": "Noa2.png",
-                "Hash": "79e077d84214a8a7fa9d3043ecb9bd60"
+                "Hash": "589856b3e165a2a746774afbca8f609b"
 		    },
 		    "Climb": {
 		        "Address": "Noa2_Climb.png",
@@ -293,7 +293,7 @@
             "IsHidden" : "true",			
 		    "Main": {
 		        "Address": "Noa2(Se).png",
-                "Hash": "b510c30560ea54e5b99b3585bf18096f"
+                "Hash": "e56bed11039d8686ca5f288f6ee4bd2a"
 		    },
 		    "Climb": {
 		        "Address": "Noa2(Se)_Climb.png",
@@ -1170,15 +1170,6 @@
                     "Hash" : "53dd52916c3c50263833940d900e2829"
                 }
         },  					
-        {
-                "Author": "catudon",
-                "Package": "魔法少女ノ魔法裁判",
-                "Name" : "無垢",
-                "Plate": {
-                    "Address": "Innocence.png",
-                    "Hash" : "95e06d070d64c9ee39c2df4537e6292d"
-                }
-        },  	
         {
                 "Author": "catudon",
                 "Package": "魔法少女ノ魔法裁判",
