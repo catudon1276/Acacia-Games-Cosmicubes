@@ -1,7 +1,7 @@
 {
     "hats": [     
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "桜羽エマ",
 		    "Bounce": "false",
@@ -15,12 +15,12 @@
                 "Hash": "b1ec6721d580e1e710377230907811d2"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Ema(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Ema(Se)",
 		    "Bounce": "false",
@@ -36,7 +36,7 @@
 		    }
 	    }, 
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "桜羽エマ",       			
 	        "Name" : "桜羽エマ２",       
@@ -51,12 +51,12 @@
                 "Hash": "0128efe841e818a4bc51a1360de254a6"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Ema2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Ema2(Se)",
 		    "Bounce": "false",
@@ -72,7 +72,7 @@
 		    }
 	    },      
        {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "二階堂ヒロ",
 		    "Bounce": "false",
@@ -86,12 +86,12 @@
                 "Hash": "e0807bc30ba208d6c21b6eb81fdea72d"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Hiro(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hiro(Se)",
 		    "Bounce": "false",
@@ -107,7 +107,7 @@
 		    }
 	    }, 
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "二階堂ヒロ",          			
 	        "Name" : "二階堂ヒロ２",    
@@ -122,12 +122,12 @@
                 "Hash": "8d3e1df510270846831dc870255abd5e"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Hiro2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hiro2(Se)",
 		    "Bounce": "false",
@@ -143,7 +143,7 @@
 		    }
 	    },        
        {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "夏目アンアン",
 		    "Bounce": "false",
@@ -161,12 +161,12 @@
                 "Hash": "cdc367eeed97866d5235dffd0cdd88c3"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Anan(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Anan(Se)",
 		    "Bounce": "false",
@@ -186,7 +186,7 @@
 		    }
 	    }, 
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "夏目アンアン",    			
 	        "Name" : "夏目アンアン２",          
@@ -201,12 +201,12 @@
                 "Hash": "24c51611794460267b147fa457c643d1"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Anan2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Anan2(Se)",
 		    "Bounce": "false",
@@ -222,7 +222,7 @@
 		    }
 	    },        
        {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "城ケ崎ノア",
 		    "Bounce": "false",
@@ -240,12 +240,12 @@
                 "Hash": "4ebc900062c8a856af023e721e4ff3f9"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Noa(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Noa(Se)",
 		    "Bounce": "false",
@@ -265,7 +265,7 @@
 		    }
 	    }, 
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "城ケ崎ノア",  			
 	        "Name" : "城ケ崎ノア２",            
@@ -280,12 +280,12 @@
                 "Hash": "056e982b3e0e5c756c1368b05821485a"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Noa2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Noa2(Se)",
 		    "Bounce": "false",
@@ -301,7 +301,7 @@
 		    }
 	    },      
                {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "蓮見レイア",
 		    "Bounce": "false",
@@ -315,12 +315,12 @@
                 "Hash": "a0995a4425aecb1e1eb6a42e8db73ea9"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Reia(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Reia(Se)",
 		    "Bounce": "false",
@@ -336,7 +336,7 @@
 		    }
 	    }, 
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "蓮見レイア",              			
 	        "Name" : "蓮見レイア２",
@@ -351,12 +351,12 @@
                 "Hash": "435aeb9e7c6b9e78d130c5edc857cb82"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Reia2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Reia2(Se)",
 		    "Bounce": "false",
@@ -372,7 +372,7 @@
 		    }
 	    },        
            {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "佐伯ミリア",
 		    "Bounce": "false",
@@ -386,12 +386,12 @@
                 "Hash": "d1bf58f77555f4b86d52db8d70dd2d34"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Miria(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Miria(Se)",
 		    "Bounce": "false",
@@ -407,7 +407,7 @@
 		    }
 	    }, 
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "佐伯ミリア",         			
 	        "Name" : "佐伯ミリア２",     
@@ -422,12 +422,12 @@
                 "Hash": "623a1e3d5a6b3a8630363d675f152119"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Miria2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Miria2(Se)",
 		    "Bounce": "false",
@@ -443,7 +443,7 @@
 		    }
 	    },    
        {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "宝生マーゴ",
 		    "Bounce": "false",
@@ -457,12 +457,12 @@
                 "Hash": "f12599453f644119544d72ba9a07d26d"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Mogo(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Mago(Se)",
 		    "Bounce": "false",
@@ -478,7 +478,7 @@
 		    }
 	    }, 
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "宝生マーゴ",            			
 	        "Name" : "宝生マーゴ２",  
@@ -493,12 +493,12 @@
                 "Hash": "086fffa53a41c112ae94c8f3bc578511"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Mago2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Mago2(Se)",
 		    "Bounce": "false",
@@ -514,7 +514,7 @@
 		    }
 	    },             
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "黒部ナノカ",
             "Bounce": "false",
@@ -532,12 +532,12 @@
                 "Hash": "378d64c383a578e924b94e7f755d9bf1"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Nanoka(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Nanoka(Se)",
 		    "Bounce": "false",
@@ -557,7 +557,7 @@
 		    }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "黒部ナノカ",    
             "Name" : "黒部ナノカ２",
@@ -576,12 +576,12 @@
                 "Hash": "2f3c3866ae876046fad03bdb7be4208f"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Nanoka2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Nanoka2(Se)",
 		    "Bounce": "false",
@@ -601,7 +601,7 @@
 		    }
 	    },		
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "紫藤アリサ",
             "Bounce": "false",
@@ -615,12 +615,12 @@
                 "Hash": "19f197698b84b9b7d838e3d464e245c0"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Arisa(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Arisa(Se)",
 		    "Bounce": "false",
@@ -636,7 +636,7 @@
 		    }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "紫藤アリサ",    
             "Name" : "紫藤アリサ２",
@@ -651,12 +651,12 @@
                 "Hash": "19f197698b84b9b7d838e3d464e245c0"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Arisa2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Arisa2(Se)",
 		    "Bounce": "false",
@@ -672,7 +672,7 @@
 		    }
 	    },		  	
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "橘シェリー",
             "Bounce": "false",
@@ -686,12 +686,12 @@
                 "Hash": "9f124e5dafabd8da2df40c59462f5d0b"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Sherry(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Sherry(Se)",
 		    "Bounce": "false",
@@ -707,7 +707,7 @@
 		    }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "橘シェリー",    
             "Name" : "橘シェリー２",
@@ -722,12 +722,12 @@
                 "Hash": "0fc4f4b8cb4214644cf6fc957867b816"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Sherry2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Sherry2(Se)",
 		    "Bounce": "false",
@@ -743,7 +743,7 @@
 		    }
 	    },		
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "遠野ハンナ",
             "Bounce": "false",
@@ -765,12 +765,12 @@
                 "Hash": "b00bb6a185c208ffc3f5e06578c4a214"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Hanna(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hanna(Se)",
 		    "Bounce": "false",
@@ -794,7 +794,7 @@
 		    }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "遠野ハンナ",    
             "Name" : "遠野ハンナ２",
@@ -813,12 +813,12 @@
                 "Hash": "312bfa2a0bdcf6a85eecbed3e46cab70"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Hanna2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hanna2(Se)",
 		    "Bounce": "false",
@@ -838,7 +838,7 @@
 		    }
 	    },		  	
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "沢渡ココ",
             "Bounce": "false",
@@ -852,12 +852,12 @@
                 "Hash": "b111f1aa93bded8d96c6246e11bfc34a"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Koko(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Koko(Se)",
 		    "Bounce": "false",
@@ -873,7 +873,7 @@
 		    }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "沢渡ココ",    
             "Name" : "沢渡ココ２",
@@ -888,12 +888,12 @@
                 "Hash": "8c6403e7dcca68f29780dd2a8c27b071"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Koko2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Koko2(Se)",
 		    "Bounce": "false",
@@ -909,7 +909,7 @@
 		    }
 	    },		 
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "氷上メルル",
             "Bounce": "false",
@@ -923,12 +923,12 @@
                 "Hash": "48d13dfaf1746d1b25c2b28f9ad3e8ed"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Meruru(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Meruru(Se)",
 		    "Bounce": "false",
@@ -944,7 +944,7 @@
 		    }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "氷上メルル",    
             "Name" : "氷上メルル２",
@@ -959,12 +959,12 @@
                 "Hash": "4f3c4c8ace72e9897d98383de0162f26"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Meruru2(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Meruru2(Se)",
 		    "Bounce": "false",
@@ -980,7 +980,7 @@
 		    }
 	    },		  		 	
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "ゴクチョー",
             "Bounce": "false",
@@ -994,12 +994,12 @@
                 "Hash": "bb6ae0f535c06b8b3e6928dbc5da3174"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Gokucho(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Gokucho(Se)",
 		    "Bounce": "false",
@@ -1015,7 +1015,7 @@
 		    }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "Kansyu",
             "Bounce": "false",
@@ -1029,12 +1029,12 @@
                 "Hash": "ff6e51625df9d58509fd7d899be2b1a6"
 		    },
             "SeekerAlternative" : {
-                "Author" : "catudon",
+                "Author" : "stelline",
                 "Name" : "Kansyu(Se)"
             }
 	    },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Kansyu(Se)",
 		    "Bounce": "false",
@@ -1053,7 +1053,7 @@
     ],
 "nameplates": [
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "運命",
                 "Plate": {
@@ -1063,7 +1063,7 @@
                 
         }, 
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "裁判",
                 "Plate": {
@@ -1072,7 +1072,7 @@
                 }
         },  			
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "妬忌",
                 "Plate": {
@@ -1081,7 +1081,7 @@
                 }
         },  			
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "無音",
                 "Plate": {
@@ -1090,7 +1090,7 @@
                 }
         },  	
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "自閉",
                 "Plate": {
@@ -1099,7 +1099,7 @@
                 }
         },  	
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "露呈",
                 "Plate": {
@@ -1108,7 +1108,7 @@
                 }
         },  
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "無雑",
                 "Plate": {
@@ -1117,7 +1117,7 @@
                 }
         },  		
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "甘受",
                 "Plate": {
@@ -1126,7 +1126,7 @@
                 }
         },  			
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "落花",
                 "Plate": {
@@ -1135,7 +1135,7 @@
                 }
         },  
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "瑕瑾",
                 "Plate": {
@@ -1144,7 +1144,7 @@
                 }
         },  					
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "諦念",
                 "Plate": {
@@ -1153,7 +1153,7 @@
                 }
         },  	
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "別離",
                 "Plate": {
@@ -1162,7 +1162,7 @@
                 }
         },  	
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "虚飾",
                 "Plate": {
@@ -1171,7 +1171,7 @@
                 }
         },  					
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "無垢",
                 "Plate": {
@@ -1180,7 +1180,7 @@
                 }
         },  	
         {
-                "Author": "catudon",
+                "Author": "stelline",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "黄昏",
                 "Plate": {
@@ -1191,7 +1191,7 @@
 	],	
 "stamps":[
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "それはおかしいよ！",
             "Image": {
@@ -1200,7 +1200,7 @@
             }
         },	
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "それは正しくない",
             "Image": {
@@ -1209,7 +1209,7 @@
             }
         },			
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "話をそらすな",
             "Image": {
@@ -1218,7 +1218,7 @@
             }
         },		
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "嘘をついてると思う…",
             "Image": {
@@ -1227,7 +1227,7 @@
             }
         },			
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "私を見るんだ",
             "Image": {
@@ -1236,7 +1236,7 @@
             }
         },
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "わからないなぁ…",
             "Image": {
@@ -1245,7 +1245,7 @@
             }
         },			
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "本当にそうかしら…",
             "Image": {
@@ -1254,7 +1254,7 @@
             }
         },			
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "そう…",
             "Image": {
@@ -1263,7 +1263,7 @@
             }
         },	
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "ふざけてんのか？",
             "Image": {
@@ -1272,7 +1272,7 @@
             }
         },					
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "そこになければないですね！",
             "Image": {
@@ -1281,7 +1281,7 @@
             }
         },					
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "私じゃありませんわー！",
             "Image": {
@@ -1290,7 +1290,7 @@
             }
         },	
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "そうはなんねーし！",
             "Image": {
@@ -1299,7 +1299,7 @@
             }
         },		
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "心配ですぅ…",
             "Image": {
@@ -1308,7 +1308,7 @@
             }
         },			
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "おやおや…",
             "Image": {
@@ -1317,7 +1317,7 @@
             }
         },				
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "無言",
             "Image": {
@@ -1326,7 +1326,7 @@
             }
         },		
         {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "炙りビン",
             "Image": {
@@ -1335,7 +1335,7 @@
             }
         },	
        {
-            "Author": "catudon",
+            "Author": "stelline",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "処刑",
             "FPS":"10",
