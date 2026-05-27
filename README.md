@@ -23,9 +23,7 @@
 本コスチュームデータは **ネコうどん** によって制作されました。
 
 ### 🔗 連絡先 / Contact
- 
-- **X（Twitter）**： [ネコうどん](https://x.com/ura_3796)  
-- **Discord**： [カツどん-catudon](https://discord.gg/mNgV3H6k)  
+
 - **Mail** : tsumugi0590@gmail.com  
 
 　※お仕事依頼・問い合わせは、上記いずれかの方法でご連絡ください。
