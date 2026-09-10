@@ -1,7 +1,7 @@
 {
     "hats": [     
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "桜羽エマ",
 		    "Bounce": "false",
@@ -20,7 +20,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Ema(Se)",
 		    "Bounce": "false",
@@ -36,7 +36,7 @@
 		    }
 	    }, 
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "桜羽エマ",       			
 	        "Name" : "桜羽エマ２",       
@@ -56,7 +56,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Ema2(Se)",
 		    "Bounce": "false",
@@ -72,7 +72,7 @@
 		    }
 	    },      
        {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "二階堂ヒロ",
 		    "Bounce": "false",
@@ -91,7 +91,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hiro(Se)",
 		    "Bounce": "false",
@@ -107,7 +107,7 @@
 		    }
 	    }, 
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "二階堂ヒロ",          			
 	        "Name" : "二階堂ヒロ２",    
@@ -127,7 +127,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hiro2(Se)",
 		    "Bounce": "false",
@@ -143,7 +143,7 @@
 		    }
 	    },        
        {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "夏目アンアン",
 		    "Bounce": "false",
@@ -166,7 +166,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Anan(Se)",
 		    "Bounce": "false",
@@ -186,7 +186,7 @@
 		    }
 	    }, 
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "夏目アンアン",    			
 	        "Name" : "夏目アンアン２",          
@@ -206,7 +206,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Anan2(Se)",
 		    "Bounce": "false",
@@ -222,7 +222,7 @@
 		    }
 	    },        
        {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "城ケ崎ノア",
 		    "Bounce": "false",
@@ -245,7 +245,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Noa(Se)",
 		    "Bounce": "false",
@@ -265,7 +265,7 @@
 		    }
 	    }, 
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "城ケ崎ノア",  			
 	        "Name" : "城ケ崎ノア２",            
@@ -285,7 +285,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Noa2(Se)",
 		    "Bounce": "false",
@@ -301,7 +301,7 @@
 		    }
 	    },      
                {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "蓮見レイア",
 		    "Bounce": "false",
@@ -320,7 +320,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Reia(Se)",
 		    "Bounce": "false",
@@ -336,7 +336,7 @@
 		    }
 	    }, 
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "蓮見レイア",              			
 	        "Name" : "蓮見レイア２",
@@ -356,7 +356,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Reia2(Se)",
 		    "Bounce": "false",
@@ -372,7 +372,7 @@
 		    }
 	    },        
            {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "佐伯ミリア",
 		    "Bounce": "false",
@@ -391,7 +391,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Miria(Se)",
 		    "Bounce": "false",
@@ -407,7 +407,7 @@
 		    }
 	    }, 
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "佐伯ミリア",         			
 	        "Name" : "佐伯ミリア２",     
@@ -427,7 +427,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Miria2(Se)",
 		    "Bounce": "false",
@@ -443,7 +443,7 @@
 		    }
 	    },    
        {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "宝生マーゴ",
 		    "Bounce": "false",
@@ -462,7 +462,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Mago(Se)",
 		    "Bounce": "false",
@@ -478,7 +478,7 @@
 		    }
 	    }, 
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "宝生マーゴ",            			
 	        "Name" : "宝生マーゴ２",  
@@ -498,7 +498,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Mago2(Se)",
 		    "Bounce": "false",
@@ -514,7 +514,7 @@
 		    }
 	    },             
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "黒部ナノカ",
             "Bounce": "false",
@@ -537,7 +537,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Nanoka(Se)",
 		    "Bounce": "false",
@@ -557,7 +557,7 @@
 		    }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "黒部ナノカ",    
             "Name" : "黒部ナノカ２",
@@ -581,7 +581,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Nanoka2(Se)",
 		    "Bounce": "false",
@@ -601,7 +601,7 @@
 		    }
 	    },		
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "紫藤アリサ",
             "Bounce": "false",
@@ -620,7 +620,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Arisa(Se)",
 		    "Bounce": "false",
@@ -636,7 +636,7 @@
 		    }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "紫藤アリサ",    
             "Name" : "紫藤アリサ２",
@@ -656,7 +656,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Arisa2(Se)",
 		    "Bounce": "false",
@@ -672,7 +672,7 @@
 		    }
 	    },		  	
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "橘シェリー",
             "Bounce": "false",
@@ -691,7 +691,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Sherry(Se)",
 		    "Bounce": "false",
@@ -707,7 +707,7 @@
 		    }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "橘シェリー",    
             "Name" : "橘シェリー２",
@@ -727,7 +727,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Sherry2(Se)",
 		    "Bounce": "false",
@@ -743,7 +743,7 @@
 		    }
 	    },		
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "遠野ハンナ",
             "Bounce": "false",
@@ -770,7 +770,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hanna(Se)",
 		    "Bounce": "false",
@@ -794,7 +794,7 @@
 		    }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "遠野ハンナ",    
             "Name" : "遠野ハンナ２",
@@ -818,7 +818,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Hanna2(Se)",
 		    "Bounce": "false",
@@ -838,7 +838,7 @@
 		    }
 	    },		  	
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "沢渡ココ",
             "Bounce": "false",
@@ -857,7 +857,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Koko(Se)",
 		    "Bounce": "false",
@@ -873,7 +873,7 @@
 		    }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "沢渡ココ",    
             "Name" : "沢渡ココ２",
@@ -893,7 +893,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Koko2(Se)",
 		    "Bounce": "false",
@@ -909,7 +909,7 @@
 		    }
 	    },		 
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "氷上メルル",
             "Bounce": "false",
@@ -928,7 +928,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Meruru(Se)",
 		    "Bounce": "false",
@@ -944,7 +944,7 @@
 		    }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "MainItem" : "氷上メルル",    
             "Name" : "氷上メルル２",
@@ -964,7 +964,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Meruru2(Se)",
 		    "Bounce": "false",
@@ -980,7 +980,7 @@
 		    }
 	    },		  		 	
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "ゴクチョー",
             "Bounce": "false",
@@ -999,7 +999,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Gokucho(Se)",
 		    "Bounce": "false",
@@ -1015,7 +1015,7 @@
 		    }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",                
             "Name" : "Kansyu",
             "Bounce": "false",
@@ -1034,7 +1034,7 @@
             }
 	    },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
 	        "Name" : "Kansyu(Se)",
 		    "Bounce": "false",
@@ -1053,7 +1053,7 @@
     ],
 "nameplates": [
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "運命",
                 "Plate": {
@@ -1063,7 +1063,7 @@
                 
         }, 
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "裁判",
                 "Plate": {
@@ -1072,7 +1072,7 @@
                 }
         },  			
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "妬忌",
                 "Plate": {
@@ -1081,7 +1081,7 @@
                 }
         },  			
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "無音",
                 "Plate": {
@@ -1090,7 +1090,7 @@
                 }
         },  	
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "自閉",
                 "Plate": {
@@ -1099,7 +1099,7 @@
                 }
         },  	
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "露呈",
                 "Plate": {
@@ -1108,7 +1108,7 @@
                 }
         },  
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "無雑",
                 "Plate": {
@@ -1117,7 +1117,7 @@
                 }
         },  		
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "甘受",
                 "Plate": {
@@ -1126,7 +1126,7 @@
                 }
         },  			
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "落花",
                 "Plate": {
@@ -1135,7 +1135,7 @@
                 }
         },  
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "瑕瑾",
                 "Plate": {
@@ -1144,7 +1144,7 @@
                 }
         },  					
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "諦念",
                 "Plate": {
@@ -1153,7 +1153,7 @@
                 }
         },  	
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "別離",
                 "Plate": {
@@ -1162,7 +1162,7 @@
                 }
         },  	
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "虚飾",
                 "Plate": {
@@ -1171,7 +1171,7 @@
                 }
         },  					
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "無垢",
                 "Plate": {
@@ -1180,7 +1180,7 @@
                 }
         },  	
         {
-                "Author": "stelline",
+                "Author": "Sine-Nomine",
                 "Package": "魔法少女ノ魔女裁判",
                 "Name" : "黄昏",
                 "Plate": {
@@ -1191,7 +1191,7 @@
 	],	
 "stamps":[
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "それはおかしいよ！",
             "Image": {
@@ -1200,7 +1200,7 @@
             }
         },	
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "それは正しくない",
             "Image": {
@@ -1209,7 +1209,7 @@
             }
         },			
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "話をそらすな",
             "Image": {
@@ -1218,7 +1218,7 @@
             }
         },		
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "嘘をついてると思う…",
             "Image": {
@@ -1227,7 +1227,7 @@
             }
         },			
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "私を見るんだ",
             "Image": {
@@ -1236,7 +1236,7 @@
             }
         },
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "わからないなぁ…",
             "Image": {
@@ -1245,7 +1245,7 @@
             }
         },			
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "本当にそうかしら…",
             "Image": {
@@ -1254,7 +1254,7 @@
             }
         },			
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "そう…",
             "Image": {
@@ -1263,7 +1263,7 @@
             }
         },	
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "ふざけてんのか？",
             "Image": {
@@ -1272,7 +1272,7 @@
             }
         },					
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "そこになければないですね！",
             "Image": {
@@ -1281,7 +1281,7 @@
             }
         },					
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "私じゃありませんわー！",
             "Image": {
@@ -1290,7 +1290,7 @@
             }
         },	
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "そうはなんねーし！",
             "Image": {
@@ -1299,7 +1299,7 @@
             }
         },		
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "心配ですぅ…",
             "Image": {
@@ -1308,7 +1308,7 @@
             }
         },			
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "おやおや…",
             "Image": {
@@ -1317,7 +1317,7 @@
             }
         },				
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "無言",
             "Image": {
@@ -1326,7 +1326,7 @@
             }
         },		
         {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "炙りビン",
             "Image": {
@@ -1335,7 +1335,7 @@
             }
         },	
        {
-            "Author": "stelline",
+            "Author": "Sine-Nomine",
             "Package": "魔法少女ノ魔女裁判",
             "Name": "処刑",
             "FPS":"10",
